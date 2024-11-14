@@ -1,2 +1,3 @@
-# BlackJackC-
-black jack game for C#
+Black Jack C# :
+
+Have the game of black jack work in C# !
